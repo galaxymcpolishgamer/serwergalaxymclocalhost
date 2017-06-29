@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "122a7dd2-2e8e-3898-9534-201556101e31",
+    "name": "Gunpowder",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "84eb4267-95dc-4bb1-87f0-8a4c37b1c0a0",
+    "name": "Gunpowder",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
